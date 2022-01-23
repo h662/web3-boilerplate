@@ -1,4 +1,4 @@
-import React, { FC, useEffect } from "react";
+import React, { FC } from "react";
 
 const App: FC = () => {
   return <div>web3-boilerplate</div>;
